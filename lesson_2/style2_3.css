@@ -5,7 +5,6 @@
 html, body {
   height: 100%;
   margin: 0;
-
 }
 
 #main{
@@ -18,7 +17,7 @@ html, body {
 }
 
 #widgets{
-  width: 100%;
+  width: 98%;
   height: 30%;
   background-color: blue;
   border-radius: 20px;
@@ -28,7 +27,7 @@ html, body {
 
 }
 #threeBlocks{
-  width: 100%;
+  width: 98%;
   height: 30%;
   display: flex;
   justify-content: space-between;
@@ -46,7 +45,7 @@ html, body {
 }
 
 #contact{
-  width: 100%;
+  width: 98%;
   height: 35%;
   background-color: blue;
   border-radius: 20px;
