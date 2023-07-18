@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+}
+div{
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#block1{
+  background-color: pink;
+  color: black;
+}
+#block2{
+  background-color: black;
+  color: white;
+}

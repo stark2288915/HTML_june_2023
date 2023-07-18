@@ -1,0 +1,47 @@
+body{
+  /*overflow-x:hidden;*/
+}
+
+*{
+  margin: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+.click{
+  font-size: 2em;
+  color: #c5b50d;
+}
+#red{
+  width: 100%;
+  height: 100vh;
+  background-color: #882f2f;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+#blue{
+  width: 100%;
+  height: 100vh;
+  background-color: #343496;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#green{
+  width: 100%;
+  height: 100vh;
+  background-color: #368b36;
+  text-align: center;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
