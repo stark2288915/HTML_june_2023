@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a{
+  text-decoration: none;
+}
+#main{
+  width: 33%;
+  height: 80vh;
+
+}
+#form{
+  width: 85%;
+  height: 90%;
+  border: 1px #888888 solid;
+  margin: 10px;
+}
+p{
+  text-align: center;
+}
+a{
+  display: block;
+  text-align: center;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+input{
+  width: 80%;
+  height: 35px;
+  margin: 5px;
+  color: #686869;
+  background-color: #f8f8f9;
+  border-radius: 3px;
+  padding: 5px;
+  border: 1px #888888 solid;
+  font-size: 15px;
+}
+button{
+  width: 84%;
+  height: 45px;
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+  margin: 5px;
+  background-color: dodgerblue;
+  border: 1px solid #e0e0e0;
+  font-size: 15px;
+  opacity: 0.7;
+}
+
+#logoInst{
+  width: 65%;
+  display: block;
+  margin: 10% auto;
+}
+
+#orBlock{
+  width: 100%;
+  display: flex;
+  font-size: 15px;
+  flex-direction: column;
+}
+
+
+#logoFacebook{
+  width: 15px;
+  margin-right: 2%;
+}
+#facebookReg{
+  display: flex;
+  justify-content: center;
+  margin: 3% 0px;
+  color: #314a81;
+}
+#orBlock p {
+  color: #686869;
+}
+
+#footer{
+  height: 10vh;
+  border: 1px #888888 solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 85%;
+  margin: 10px;
+}
+#footer a{
+  display: inline;
+  color: #0095f5;
+}
