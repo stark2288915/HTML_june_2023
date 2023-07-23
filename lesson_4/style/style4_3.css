@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+}
+#main{
+  width: 80vw;
+  margin: 0px auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#user{
+  display: flex;
+  align-items: center;
+  justify-content: space-between
+}
+.emailPass{
+  width: 97%;
+
+}
+#firstname{
+  width: 34%;
+}
+
+#lastname{
+  width: 58%;
+}
+
+
+input{
+  height: 30px;
+  color: #686869;
+  background-color: #f8f8f9;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 15px 0px;
+  border: 1px #888888 solid;
+  font-size: 15px;
+}
+button{
+  width: 100%;
+  height: 35px;
+  margin-top: 5px;
+  background-color: #f5db01;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+}
+span{
+  color: rgba(25, 25, 25, 0.36);
+}
+
+
